@@ -2,7 +2,8 @@
 nodejs + koa2 + koa-nunjucks-2 + koa-router + browser-sync + mogodb  
 处于开发阶段（暂无用到mogodb）
    
-#  
+# 
+<pre>
 D:.
 │  index.js //入口文件
 │  package-lock.json
@@ -28,3 +29,4 @@ D:.
 │      web.js
 │          
 └─web //前台
+</pre>
